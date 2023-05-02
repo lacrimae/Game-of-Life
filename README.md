@@ -8,6 +8,8 @@ further input. The game is played on a two-dimensional grid of cells, where each
 states: alive or dead. The game follows a set of rules that determine whether each cell is alive or dead in the next
 generation based on the current state of its eight neighbors.
 
+![example.png](example.png)
+
 ## Features
 
 1. Adding new life by clicking on the grid. The pattern of the new life can be selected by clicking on the buttons
